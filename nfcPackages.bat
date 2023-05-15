@@ -1,0 +1,1 @@
+pyinstaller -F -w -i .\favicon.ico -p .\venv\Lib\site-packages xmindToExcel.py
